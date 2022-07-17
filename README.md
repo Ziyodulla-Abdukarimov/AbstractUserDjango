@@ -1,2 +1,2 @@
 Assalom aleykum.
-Modelda Admin, xodim client lavozimlari bor.
+Modelda admin, xodim client lavozimlari bor.
